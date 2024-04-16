@@ -5,14 +5,18 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    background-color: #54a7ff;
 }
 
 .quote-container {
     text-align: center;
+    background-color: #ffffff;
+    max-width: 1000px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 5px;
 }
 
 .quote-box {
-    border-radius: 3px;
     position: relative;
     width: 450px;
     padding: 40px 50px;
